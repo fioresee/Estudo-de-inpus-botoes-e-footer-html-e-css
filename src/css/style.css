@@ -1,0 +1,31 @@
+header{
+    background-color: rgb(9, 75, 138);
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+    margin: 20px;
+    border: 10px dashed rgb(255, 255, 255)
+}
+
+div{
+    background-color: rgb(9, 75, 138);
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+    margin: 20px;
+    border: 10px dashed rgb(255, 255, 255)
+}
+
+footer{
+    background-color: rgb(9, 75, 138);
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+    margin: 20px;
+    border: 10px dashed rgb(255, 255, 255);
+}
+
+footer a{
+    color: #56c9ff;
+    text-decoration: none;
+}
